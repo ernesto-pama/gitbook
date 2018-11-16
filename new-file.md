@@ -1,0 +1,13 @@
+==== Windows (Putty)
+
+To be able to use Putty you will first need to convert the .pem file to a .ppk file using the following instructions:
+
+* 	Start Puttygen and select *Load*
+* 	Select your .pem file.
+* 	Putty will convert the .pem format to .ppk format
++
+
+.Putty Key Generator
+image::puttygen.png[Putty Key Generator, 500, align="center"]
+
+*	Select *Save Private Key* A pass-phrase is not required but is recommended to provide additional security.
