@@ -1,4 +1,4 @@
-==== Windows (Putty)
+==== Windows (Putty) Really?
 
 To be able to use Putty you will first need to convert the .pem file to a .ppk file using the following instructions:
 
@@ -8,6 +8,5 @@ To be able to use Putty you will first need to convert the .pem file to a .ppk f
 +
 
 .Putty Key Generator
-image::puttygen.png[Putty Key Generator, 500, align="center"]
 
 *	Select *Save Private Key* A pass-phrase is not required but is recommended to provide additional security.
